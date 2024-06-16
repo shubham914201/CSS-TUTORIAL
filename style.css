@@ -1,0 +1,25 @@
+*{
+    color:blue
+}
+h1{
+    color:red;
+}
+p{
+    color:green;
+}
+button{
+    color:brown;
+    background-color:black;
+}
+body{
+    background-color: grey;
+}
+#headingOne{
+     color:red;
+}
+#headingTwo{
+    color:pink;
+}
+.sameclass{
+    color:yellow;
+}
